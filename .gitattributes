@@ -1,3 +1,6 @@
+# Reclassify '.razor' files to correct language
+*.razor linguist-language=Blazor
+
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
